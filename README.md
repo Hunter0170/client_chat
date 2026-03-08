@@ -1,6 +1,6 @@
-# iChat Web Application
+# Client_chat Web Application
 
-iChat is a real-time web chat application built with Flask and Socket.IO. It provides a seamless and interactive platform for users to communicate with each other through individual chat rooms.
+Client_chat is a real-time web chat application built with Flask and Socket.IO. It provides a seamless and interactive platform for users to communicate with each other through individual chat rooms.
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ Chat_Web_App/
 
 ## Getting Started
 
-To run the iChat web application locally, follow these steps:
+To run the Client_chat web application locally, follow these steps:
 
 1. Clone the repository:
 
@@ -66,7 +66,7 @@ To run the iChat web application locally, follow these steps:
    ```
 
 
-Visit `http://localhost:5000` in your web browser to access iChat.
+Visit `http://localhost:5000` in your web browser to access Client_chat.
 
 ## Features
 
@@ -115,7 +115,7 @@ Entry point for running the server. Initializes the Flask application and Socket
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to iChat, please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to Client_chat, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
